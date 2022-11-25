@@ -1,3 +1,5 @@
 Hello world! XD
 
 dsadsadsadasdasd
+
+Another test for git commit (without -m(descriptive message))
